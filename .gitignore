@@ -1,0 +1,4 @@
+node_modules
+*.log
+*.LICENCE
+package-lock.json
